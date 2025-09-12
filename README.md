@@ -1,5 +1,3 @@
-<br/>
-        
 ## 🔥 Github Stats 🔥
 <div>
      <div align="center">
